@@ -3,4 +3,12 @@
     <string name="app_name">Lab1</string>
     <string name="hello_message">sat shri akal</string>
     <string name="button">main ik button haan</string>
+    <string name="TextView">Login</string>
+    <string name="EditText">Name</string>
+    <string name="password">Password</string>
+    <string name="Flag">Indian Flag</string>
+    <string name="RadioButton">RadioButton</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Switch">What does this do?</string>
+    <string name="CameraIcon">Image Button to capture images</string>
 </resources>
